@@ -1,5 +1,5 @@
 const contractAddress = "0x2BeEF18009A2fFaf9621A9ecB6ddcDF39b3f32C7"; //Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby or polygon
+const chain = 'mainnet'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the MADEGENZ NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
